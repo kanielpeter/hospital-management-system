@@ -1,0 +1,2 @@
+In your localhost sever create database called psychology
+and import database file from assets/database/psychology.sql
